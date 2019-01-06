@@ -18,3 +18,4 @@ This is a course project to build a blog using Ruby on Rails.
 
 01-05-19
 •	Pushed to production at Heroku https://daniel-castronovo-alpha-blog.herokuapp.com/
+•	Working on blog styles
