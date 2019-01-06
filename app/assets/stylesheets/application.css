@@ -14,7 +14,7 @@
  *= require_self
  */
 body {
-  /* background-color: lightblue; */
+  background-color: lightblue;
 }
 header{
   position: fixed;
