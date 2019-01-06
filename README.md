@@ -13,5 +13,8 @@ This is a course project to build a blog using Ruby on Rails.
   •	Modified routes, controllers, views
 
   •	Set up basic web app with standard page elements
-  
+
   •	Set Git and pushed file to GitHib repository
+
+01-05-19
+•	Pushed to production https://daniel-castronovo-alpha-blog.herokuapp.com/
