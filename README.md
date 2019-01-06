@@ -17,4 +17,4 @@ This is a course project to build a blog using Ruby on Rails.
   •	Set Git and pushed file to GitHib repository
 
 01-05-19
-•	Pushed to production at Heroku for course https://daniel-castronovo-alpha-blog.herokuapp.com/
+•	Pushed to production at Heroku https://daniel-castronovo-alpha-blog.herokuapp.com/
